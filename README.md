@@ -1,8 +1,8 @@
 # PracticeWebDev
 HTML CSS JS
 
-1.Dad jokes : Work with Api
+1.Dad jokes : Work with Api 
 
 2.Feedback UI : Work with DOM
 
-3.English Dictionary : Work with Dictionary Api
+3.English Dictionary : Work with Dictionary Api (Use input from user)
