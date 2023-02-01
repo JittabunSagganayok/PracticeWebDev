@@ -7,4 +7,4 @@ HTML CSS JS
 
 3.English Dictionary : Work with Dictionary Api (Input word from user)
 
-4.Quote generator : Work with Api with key
+4.Quote generator : Work with Api and key
