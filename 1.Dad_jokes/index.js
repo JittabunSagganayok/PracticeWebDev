@@ -20,7 +20,7 @@ async function getapi(){
         const data = await response.json();
         console.log(data[0].joke);
         jokeElement.innerText = data[0].joke;   
-        btnElement.disabled=true;
+        btnElement.disabled=false;
     }
     catch (error){
         jokeElement.innerText = "Error ! Please Refresh"; 
