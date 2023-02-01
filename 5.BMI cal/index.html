@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="header">BMI</h1>
+
+        <div class="input1" id="input1"> 
+            <p class="suggest" id="suggest">Enter your Height (cm) </p>
+            <input type="text" class="inputh" id="inputh">
+            <!-- <button class="btn" id="btn">Search</button> -->
+            
+        </div>
+        <div class="input1" id="input1"> 
+            <p class="suggest" id="suggest">Enter your Weight (kg)</p>
+            <input type="text" class="inputw" id="inputw">
+            <!-- <button class="btn" id="btn">Search</button> -->
+            
+        </div>
+
+       
+        <div class="summary" id="summary">
+            <p>Your Height (m.) : 
+                <span class="Height" id="Height">...</span>
+            </p>
+            <p>Your Weight (kg) : 
+                <span class="Weight" id="Weight">...</span>
+            </p>
+            <p>Your BMI : 
+                <span class="bmi" id="bmi">...</span>
+            </p>
+            
+        </div>
+        <button class="btn" id="btn">Enter</button>
+
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
