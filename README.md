@@ -10,3 +10,5 @@ HTML CSS JS
 4.Quote generator : Work with Api and key
 
 5.BMI Calculator : Input value from user and calculate
+
+6.Pic generate : Work with Api to get picture link src
